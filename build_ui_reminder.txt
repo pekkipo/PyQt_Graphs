@@ -1,0 +1,4 @@
+# Set of commands after saving the file in Qt Designer:
+# python setup.py build_ui
+# pip install -e .
+# python -m myapp    - launch the app
